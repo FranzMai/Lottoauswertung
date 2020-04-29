@@ -1,5 +1,7 @@
 package de.kohnlehome;
 
+import java.util.Date;
+
 public class AnzahlRichtige implements IAnzahlRichtige {
     ILottoZahlenReader lottoZahlenReader;
 
